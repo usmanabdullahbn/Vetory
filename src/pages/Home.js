@@ -4,6 +4,7 @@ import Hero from "../component/Hero";
 import About from "../component/About";
 import Footer from "../component/Footer";
 import LetConnect from "../component/LetConnect";
+import PortfolioSection from "../component/Portfolio";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <Navbar />
       <Hero />
       <About/>
+      <PortfolioSection/>
       <LetConnect/>
       <Footer/>
     </div>
