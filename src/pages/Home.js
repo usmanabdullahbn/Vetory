@@ -15,7 +15,7 @@ const Home = () => {
       <About/>
       <PortfolioSection />
       <DesignServices />
-      <LetConnect/>
+      {/* <LetConnect/> */}
       <Footer/>
     </div>
   );

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import logo from "../assert/dark logo.svg";
+import logo from "../assert/logo.png";
 
 const Footer = () => {
   return (
@@ -12,10 +12,8 @@ const Footer = () => {
           <img
             src={logo}
             alt="Vectory Logo"
-            width="36"
-            height="36"
-            className="animate-spin-slow transition-opacity duration-300 hover:opacity-50"
-            style={{ animation: "spin 4s linear infinite" }}
+            width="60"
+            height="60"
           />
         </div>
 
