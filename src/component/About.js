@@ -27,13 +27,6 @@ const About = () => {
 
         <div className="absolute bottom-0 left-0 right-0 h-px bg-gray-200 w-full"></div>
       </div>
-
-      {/* Selected Projects Section */}
-      <div className="py-24 px-4">
-        <h2 className="text-4xl md:text-5xl lg:text-9xl font-bold tracking-tight text-center custom-word-spacing">
-          ©SELECTED <br /> PROJECTS
-        </h2>
-      </div>
     </main>
   );
 };
